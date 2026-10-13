@@ -78,4 +78,3 @@ and invalid starting characters.
 - Leading and trailing whitespace is trimmed.
 - The name is converted to title case before generating the message.
 - Invalid or missing input returns HTTP 400 with a consistent JSON error response.
-- No database is required for this API.
